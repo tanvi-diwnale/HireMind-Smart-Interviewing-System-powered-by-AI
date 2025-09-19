@@ -24,27 +24,27 @@ Deployment: Streamlit Cloud or local execution
 
 Clone the Repository
 
-git clone https://github.com/tanvi-diwnale/HireMind-AI-Interviewer.git
-cd HireMind-AI-Interviewer
+`git clone https://github.com/tanvi-diwnale/HireMind-AI-Interviewer.git`
+`cd HireMind-AI-Interviewer`
 
 Create and Activate Virtual Environment (recommended)
 
-python -m venv venv
+`python -m venv venv`
 
-On Windows: venv\Scripts\activate
+On Windows: `venv\Scripts\activate`
 
 
 Install Dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 Set Environment Variables
 Create a .env file in the root folder and add your Google Gemini API key:
 
-GOOGLE_API_KEY=your_google_api_key_here
+`GOOGLE_API_KEY=your_google_api_key_here`
 
 
 Run the App
 
-streamlit run app.py
+`streamlit run app.py`
