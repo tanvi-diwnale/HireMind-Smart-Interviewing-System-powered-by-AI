@@ -24,7 +24,7 @@ Deployment: Streamlit Cloud or local execution
 
 Clone the Repository
 
-git clone https://github.com/your-username/HireMind-AI-Interviewer.git
+git clone https://github.com/tanvi-diwnale/HireMind-AI-Interviewer.git
 cd HireMind-AI-Interviewer
 
 Create and Activate Virtual Environment (recommended)
