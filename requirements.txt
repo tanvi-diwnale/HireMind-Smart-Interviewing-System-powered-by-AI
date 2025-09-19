@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+google-generativeai
+fpdf
+audio-recorder-streamlit
+soundfile
+numpy
+openai-whisper
+torch
