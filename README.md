@@ -30,7 +30,8 @@ cd HireMind-AI-Interviewer
 Create and Activate Virtual Environment (recommended)
 
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+On Windows: venv\Scripts\activate
 
 
 Install Dependencies
